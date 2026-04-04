@@ -1,258 +1,252 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    NEON HEADER BANNER                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--              NEON VENOM ANIMATED HEADER                       -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0e27,60:0d1b4b,100:001a4d&height=280&section=header&text=HASSAM&fontSize=100&fontColor=00fff5&fontAlignY=40&stroke=00fff5&strokeWidth=2&desc=C%23%20Developer%20%E2%9A%A1%20.NET%20Engineer%20%E2%9A%A1%20Future%20Full-Stack%20Dev&descAlignY=62&descSize=20&descColor=bd00ff&animation=fadeIn)](https://github.com/hassamjamildesign)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:030014,25:0a0020,50:0d0040,75:0a0e27,100:001a4d&height=300&section=header&text=HASSAM&fontSize=90&fontColor=00fff5&fontAlignY=42&stroke=00fff5&strokeWidth=3&desc=%3C%20C%23%20Developer%20%2F%3E%20%7C%20%3C%20.NET%20Engineer%20%2F%3E%20%7C%20%3C%20Future%20Full-Stack%20%2F%3E&descAlignY=63&descSize=17&descColor=bd00ff&animation=fadeIn&rotate=0)](https://github.com/hassamjamildesign)
+
+<!-- NEON DIVIDER TOP -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                  MULTI-LINE TYPING ANIMATION                  -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%3E+Hello+World!+I'm+Hassam+%E2%9A%A1;%3E+C%23+Developer+%7C+.NET+Engineer+%7C+MySQL+Architect;%3E+Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://github.com/hassamjamildesign)
 
 <br/>
 
-<!-- NEON TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=00FFF5&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=55&lines=%3E+Initializing+developer+profile...+%E2%9C%94;%3E+Loading+C%23+%26+.NET+modules...+%E2%9C%94;%3E+Compiling+passion+for+code...+%E2%9C%94;%3E+System+ready.+Welcome+to+my+world+%F0%9F%9A%80;%3E+Building+the+future%2C+one+commit+at+a+time_%E2%96%8C)](https://github.com/hassamjamildesign)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=BD00FF&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=600&height=35&lines=%7B+passion%3A+%22coding%22%2C+goal%3A+%22full-stack%22+%7D;new+Developer(%22Hassam%22).build(world)%3B;while(alive)+%7B+eat()+%3B+sleep()+%3B+code()+%7D;Console.WriteLine(%22Hello%2C+World!%22)%3B;SELECT+*+FROM+skills+WHERE+level+%3D+%22growing%22%3B)](https://github.com/hassamjamildesign)
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- BADGE ROW -->
+[![Profile Views](https://komarev.com/ghpvc/?username=hassamjamildesign&style=for-the-badge&color=00fff5&labelColor=030014&label=⚡+VISITORS)](https://github.com/hassamjamildesign)
+[![GitHub followers](https://img.shields.io/github/followers/hassamjamildesign?style=for-the-badge&color=bd00ff&labelColor=030014&label=⚡+FOLLOWERS)](https://github.com/hassamjamildesign)
+[![GitHub stars](https://img.shields.io/github/stars/hassamjamildesign?style=for-the-badge&color=ff6b35&labelColor=030014&label=⚡+STARS)](https://github.com/hassamjamildesign)
 
-<br/>
-
-<!-- ANIMATED PROFILE BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=hassamjamildesign&style=for-the-badge&color=00fff5&labelColor=0d0221&label=◈+VISITORS)](https://github.com/hassamjamildesign)
-[![GitHub followers](https://img.shields.io/github/followers/hassamjamildesign?style=for-the-badge&color=bd00ff&labelColor=0d0221&label=◈+FOLLOWERS)](https://github.com/hassamjamildesign)
-[![GitHub stars](https://img.shields.io/github/stars/hassamjamildesign?style=for-the-badge&color=ff6b35&labelColor=0d0221&label=◈+STARS)](https://github.com/hassamjamildesign)
+<!-- NEON DIVIDER -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     INTRO + GIF                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     ABOUT ME — TERMINAL                       -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
-## `> whoami`
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```csharp
-var hassam = new Developer
-{
-    Name     = "Hassam",
-    Role     = "C# Developer",
-    Stack    = ["C#", ".NET", "WinForms", "MySQL"],
-    Location = "Pakistan 🇵🇰",
-    Goal     = "Full-Stack Engineer 🚀",
-    Status   = "Building & Learning ⚡"
-};
+/*
+ ██╗  ██╗ █████╗ ███████╗███████╗ █████╗ ███╗   ███╗
+ ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗████╗ ████║
+ ███████║███████║███████╗███████╗███████║██╔████╔██║
+ ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██║╚██╔╝██║
+ ██║  ██║██║  ██║███████║███████║██║  ██║██║ ╚═╝ ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+*/
+namespace Hassam.Profile {
+  class Developer {
+    string Name     = "Hassam";
+    string Role     = "C# Developer";
+    string Location = "Pakistan 🇵🇰";
+    string[] Stack  = {"C#",".NET","WinForms","MySQL"};
+    string Goal     = "Full-Stack Engineer 🚀";
+    bool   OpenTo   = Collaborations | Learning;
+    string Fuel     = "☕ Tea + 💡 Ideas + ⌨️ Code";
+  }
+}
 ```
-
-&nbsp;
-
-🔭 &nbsp;Building a **Student Management System** — CLOs, Rubrics & Assessments
-
-⚡ &nbsp;Passionate about **clean C# architecture** and elegant design patterns
-
-🌱 &nbsp;Currently expanding into **ASP.NET Core** & Web Dev
-
-💡 &nbsp;*"Great software is engineered, not just written."*
-
-☕ &nbsp;Powered by: **Tea + Code + Curiosity**
 
 <br clear="right"/>
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   ANIMATED NEON BANNER 2                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## ⚡ `// TECH_STACK.exe`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=BD00FF&center=true&vCenter=true&width=500&height=30&lines=Compiling+tech+stack...;All+systems+operational+%E2%9C%94)](https://github.com/hassamjamildesign)
-
-<br/>
-
-**◈ Languages & Frameworks**
-
-[![C#](https://img.shields.io/badge/C%23-%2300fff5.svg?style=for-the-badge&logo=csharp&logoColor=0d0221)](https://docs.microsoft.com/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-%23bd00ff.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![WinForms](https://img.shields.io/badge/WinForms-%230066ff.svg?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/dotnet/desktop/winforms/)
-
-**◈ Database**
-
-[![MySQL](https://img.shields.io/badge/MySQL-%2300fff5.svg?style=for-the-badge&logo=mysql&logoColor=0d0221)](https://www.mysql.com/)
-[![SQL](https://img.shields.io/badge/SQL-%23bd00ff.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-
-**◈ Tools & Environment**
-
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=00fff5)](https://visualstudio.microsoft.com/)
-[![Git](https://img.shields.io/badge/Git-%23ff6b35.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%230d0221.svg?style=for-the-badge&logo=github&logoColor=00fff5)](https://github.com/hassamjamildesign)
-
-**◈ Currently Learning**
-
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23bd00ff.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![HTML5](https://img.shields.io/badge/HTML5-%2300fff5.svg?style=for-the-badge&logo=html5&logoColor=0d0221)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%230066ff.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23ff6b35.svg?style=for-the-badge&logo=javascript&logoColor=0d0221)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Banner2](https://capsule-render.vercel.app/api?type=rect&color=0:030014,50:0d0040,100:030014&height=2&section=header&reversal=false)](https://github.com/hassamjamildesign)
 
 </div>
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECT                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--              ANIMATED TECH STACK SECTION                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🛸 `// FEATURED_PROJECT`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=00FFF5&center=true&vCenter=true&width=400&height=45&lines=⚡+TECH+STACK+⚡)](https://github.com/hassamjamildesign)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=400&color=00FFF5&center=true&vCenter=true&width=500&height=30&lines=Loading+project+data...;Rendering+showcase...+%E2%9C%94)](https://github.com/hassamjamildesign)
+<br/>
+
+<!-- ROW 1: CORE -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio&theme=dark&perline=3" />
+
+<br/><br/>
+
+<!-- ROW 2: DATABASE & TOOLS -->
+<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark&perline=3" />
+
+<br/><br/>
+
+<!-- ROW 3: LEARNING -->
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+
+<br/>
+
+**`— CORE —`**
+
+![C#](https://img.shields.io/badge/C%23-00fff5?style=for-the-badge&logo=csharp&logoColor=030014)
+![.NET](https://img.shields.io/badge/.NET-bd00ff?style=for-the-badge&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0066ff?style=for-the-badge&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff6b35?style=for-the-badge&logo=mysql&logoColor=white)
+
+**`— TOOLS —`**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-bd00ff?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00fff5?style=for-the-badge&logo=git&logoColor=030014)
+![GitHub](https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=white)
+
+**`— LEARNING —`**
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-00fff5?style=for-the-badge&logo=dotnet&logoColor=030014)
+![HTML5](https://img.shields.io/badge/HTML5-bd00ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0066ff?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff6b35?style=for-the-badge&logo=javascript&logoColor=030014)
+
+</div>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                 ANIMATED NEON SEPARATOR                       -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                  FEATURED PROJECT — NEON                      -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=BD00FF&center=true&vCenter=true&width=500&height=45&lines=🛸+FEATURED+PROJECT+🛸)](https://github.com/hassamjamildesign)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=hassamjamildesign&repo=student-management-system&theme=tokyonight&hide_border=true&bg_color=030014&title_color=00fff5&icon_color=bd00ff&text_color=a0aec0&border_radius=12)](https://github.com/hassamjamildesign/student-management-system)
 
 </div>
 
 <br/>
 
 ```
- ███████╗███╗   ███╗███████╗
- ██╔════╝████╗ ████║██╔════╝
- ███████╗██╔████╔██║███████╗
- ╚════██║██║╚██╔╝██║╚════██║
- ███████║██║ ╚═╝ ██║███████║
- ╚══════╝╚═╝     ╚═╝╚══════╝
-  STUDENT  MANAGEMENT  SYSTEM
+╔══════════════════════════════════════════════════════════════════════╗
+║  ⚡ PROJECT   →  Student Management System                           ║
+║  ⚡ STACK     →  C# · .NET WinForms · MySQL                          ║
+║  ⚡ STATUS    →  [ ▓▓▓▓▓▓▓░░░ ] 70% — Active Dev 🟢                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ◈ CLO Mgmt      →  Define & track Course Learning Outcomes          ║
+║  ◈ Rubric Builder →  Custom assessment rubrics for any exam type     ║
+║  ◈ Assessment    →  Record marks & evaluate against rubrics          ║
+║  ◈ Analytics     →  Grade dashboards & student performance reports   ║
+║  ◈ MySQL Backend →  Robust relational schema, clean architecture     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-| Property | Details |
-|:---:|:---:|
-| 🏷️ **Project** | Student Management System |
-| 🛠️ **Stack** | `C#` · `.NET WinForms` · `MySQL` |
-| 📌 **Status** | 🟢 In Active Development |
-| 🎯 **Purpose** | Academic Assessment & Tracking |
+[![View Repo](https://img.shields.io/badge/⚡_View_Repository-00fff5?style=for-the-badge&logo=github&logoColor=030014)](https://github.com/hassamjamildesign/student-management-system)
+[![Live Status](https://img.shields.io/badge/⚡_Status-Active_Dev-bd00ff?style=for-the-badge)](https://github.com/hassamjamildesign)
 
 </div>
 
 <br/>
 
-**What it does:**
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   ANIMATED SEPARATOR                          -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-```
-⚡ CLO Management     →  Define & track Course Learning Outcomes per subject
-⚡ Rubric Builder     →  Design custom grading rubrics for any assessment type
-⚡ Assessment Engine  →  Record marks, evaluate performance against rubrics
-⚡ Grade Analytics    →  Visual dashboards for student progress & outcomes
-⚡ MySQL Backend      →  Robust relational schema with clean data architecture
-⚡ OOP Design         →  Modular, maintainable, and scalable codebase
-```
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                  GITHUB STATS — NEON GRID                     -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/◈%20View%20Repository-%2300fff5?style=for-the-badge&logo=github&logoColor=0d0221)](https://github.com/hassamjamildesign/student-management-system)
-[![Status](https://img.shields.io/badge/◈%20Status-Active%20Dev-%23bd00ff?style=for-the-badge)](https://github.com/hassamjamildesign)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=00FFF5&center=true&vCenter=true&width=400&height=45&lines=📡+GITHUB+STATS+📡)](https://github.com/hassamjamildesign)
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hassamjamildesign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=030014&title_color=00fff5&icon_color=bd00ff&text_color=a0aec0&ring_color=00fff5&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassamjamildesign&layout=compact&theme=tokyonight&hide_border=true&bg_color=030014&title_color=00fff5&text_color=a0aec0&langs_count=6&border_radius=12"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassamjamildesign&theme=tokyonight&hide_border=true&background=030014&ring=00fff5&fire=bd00ff&currStreakLabel=00fff5&sideLabels=a0aec0&dates=565f89&stroke=030014&currStreakNum=00fff5&sideNums=bd00ff&border_radius=12"/>
 
 </div>
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                                 -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     ACTIVITY GRAPH                            -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 📡 `// GITHUB_STATS`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=BD00FF&center=true&vCenter=true&width=500&height=30&lines=Fetching+live+stats...;Rendering+data+grids...+%E2%9C%94)](https://github.com/hassamjamildesign)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=BD00FF&center=true&vCenter=true&width=500&height=45&lines=🌐+ACTIVITY+MATRIX+🌐)](https://github.com/hassamjamildesign)
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=hassamjamildesign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=bd00ff&text_color=a0aec0&ring_color=00fff5&border_radius=10"/>
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassamjamildesign&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00fff5&text_color=a0aec0&langs_count=6&border_radius=10"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassamjamildesign&theme=tokyonight&hide_border=true&background=0d0221&ring=00fff5&fire=bd00ff&currStreakLabel=00fff5&sideLabels=a0aec0&dates=565f89&stroke=0d0221&currStreakNum=00fff5&sideNums=bd00ff" alt="GitHub Streak"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassamjamildesign&theme=tokyo-night&bg_color=030014&color=00fff5&line=bd00ff&point=00fff5&area=true&area_color=bd00ff&hide_border=true&radius=8)](https://github.com/hassamjamildesign)
 
 </div>
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                                 -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     ANIMATED SEPARATOR                        -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-## 🌐 `// ACTIVITY_MATRIX`
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassamjamildesign&theme=tokyo-night&bg_color=0d0221&color=00fff5&line=bd00ff&point=00fff5&area=true&area_color=bd00ff&hide_border=true&radius=8)](https://github.com/hassamjamildesign)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   SNAKE ANIMATION                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   SNAKE ANIMATION                             -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🐍 `// CONTRIBUTION_SNAKE`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=00FFF5&center=true&vCenter=true&width=500&height=45&lines=🐍+CONTRIBUTION+SNAKE+🐍)](https://github.com/hassamjamildesign)
 
-<!--
-  ┌─────────────────────────────────────────────────────────────┐
-  │  SNAKE SETUP — Create this file in your profile repo:       │
-  │  .github/workflows/snake.yml                                │
-  │                                                             │
-  │  name: Snake Animation                                       │
-  │  on:                                                         │
-  │    schedule:                                                 │
-  │      - cron: "0 */12 * * *"                                  │
-  │    workflow_dispatch:                                        │
-  │  jobs:                                                       │
-  │    generate:                                                 │
-  │      runs-on: ubuntu-latest                                  │
-  │      steps:                                                  │
-  │        - uses: Platane/snk/svg-only@v3                       │
-  │          with:                                               │
-  │            github_user_name: hassamjamildesign               │
-  │            outputs: |                                        │
-  │              dist/snake.svg                                  │
-  │              dist/snake-dark.svg?palette=github-dark         │
-  │        - uses: crazy-max/ghaction-github-pages@v3            │
-  │          with:                                               │
-  │            target_branch: output                             │
-  │            build_dir: dist                                   │
-  │          env:                                                │
-  │            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         │
-  └─────────────────────────────────────────────────────────────┘
--->
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassamjamildesign/hassamjamildesign/output/snake-dark.svg"/>
@@ -264,82 +258,95 @@ var hassam = new Developer
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      ROADMAP                                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      ROADMAP                                  -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🗺️ `// DEVELOPER_ROADMAP`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=BD00FF&center=true&vCenter=true&width=500&height=45&lines=🗺️+DEVELOPER+ROADMAP+🗺️)](https://github.com/hassamjamildesign)
 
 </div>
 
+<br/>
+
 ```
-PHASE 01 — FOUNDATION          [▓▓▓▓▓▓▓▓▓▓] 100% ✅
-  ├── C# & OOP Mastery
-  ├── .NET WinForms Applications
-  └── MySQL Database Design
+◈ PHASE 01 — FOUNDATION      ████████████  100%  ✅
+  └─ C# · OOP · WinForms · MySQL
 
-PHASE 02 — INTERMEDIATE        [▓▓▓▓▓▓▓░░░]  70% 🔄
-  ├── Student Management System
-  ├── Clean Architecture Patterns
-  └── Advanced SQL & Queries
+◈ PHASE 02 — INTERMEDIATE    ████████░░░░   70%  🔄
+  └─ Student Management System · Clean Architecture
 
-PHASE 03 — WEB TRANSITION      [▓▓░░░░░░░░]  20% 🔄
-  ├── ASP.NET Core & REST APIs
-  ├── HTML5 / CSS3 / JavaScript
-  └── Frontend Frameworks
+◈ PHASE 03 — WEB TRANSITION  ███░░░░░░░░░   25%  🔄
+  └─ ASP.NET Core · REST APIs · HTML/CSS/JS
 
-PHASE 04 — FULL-STACK          [░░░░░░░░░░]   0% ⬜
-  ├── React / Next.js
-  ├── Cloud Deployment (Azure/AWS)
-  └── Open Source Contributions
+◈ PHASE 04 — FULL-STACK      ░░░░░░░░░░░░    0%  ⬜
+  └─ React · Next.js · Azure/AWS · Open Source
 
-PHASE 05 — PROFESSIONAL        [░░░░░░░░░░]   0% 🎯
-  └── Senior Full-Stack Developer
+◈ PHASE 05 — PROFESSIONAL    ░░░░░░░░░░░░    0%  🎯
+  └─ Senior Full-Stack Developer
 ```
 
 <br/>
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     ANIMATED SEPARATOR                        -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       CONTACT                                    -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    NEON TROPHIES                              -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 📡 `// CONTACT.init()`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FFF5&center=true&vCenter=true&width=500&height=30&lines=Establishing+connection...;Channel+open+%E2%9A%A1+Feel+free+to+reach+out!)](https://github.com/hassamjamildesign)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=FF6B35&center=true&vCenter=true&width=400&height=45&lines=🏆+ACHIEVEMENTS+🏆)](https://github.com/hassamjamildesign)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hassamjamildesign-%2300fff5?style=for-the-badge&logo=github&logoColor=0d0221&labelColor=0d0221)](https://github.com/hassamjamildesign)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-%23bd00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://linkedin.com/in/hassamjamildesign)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hassamjamildesign&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7)](https://github.com/hassamjamildesign)
+
+</div>
 
 <br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      CONTACT SECTION                         -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=1500&pause=99999&color=00FFF5&center=true&vCenter=true&width=500&height=45&lines=📡+ESTABLISH+CONNECTION+📡)](https://github.com/hassamjamildesign)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=BD00FF&center=true&vCenter=true&width=600&height=35&lines=⚡+Open+to+collaborations+%26+opportunities;⚡+Always+happy+to+connect+with+developers;⚡+Let's+build+something+amazing+together)](https://github.com/hassamjamildesign)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-hassamjamildesign-00fff5?style=for-the-badge&logo=github&logoColor=030014&labelColor=030014)](https://github.com/hassamjamildesign)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-bd00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014)](https://linkedin.com/in/hassamjamildesign)
+
+<br/><br/>
 
 ```
-⚡ Open to collaborations, feedback, and learning opportunities
-⚡ Always happy to connect with fellow developers
-⚡ Let's build something amazing together
+⚡ "Every line of code is a step closer to mastery." ⚡
 ```
 
 <br/>
 
-*"Every line of code is a step closer to mastery."* &nbsp;⚡
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   NEON FOOTER BANNER                         -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- FOOTER BANNER -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001a4d,40:0d1b4b,70:0a0e27,100:0d0221&height=140&section=footer&text=Thanks+for+visiting!+%E2%9A%A1&fontSize=26&fontColor=00fff5&fontAlignY=65&animation=twinkling)](https://github.com/hassamjamildesign)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001a4d,30:0d1b4b,60:0a0e27,100:030014&height=150&section=footer&text=Thanks+for+visiting!+⚡&fontSize=28&fontColor=00fff5&fontAlignY=65&animation=twinkling&desc=hassamjamildesign+%7C+C%23+Developer&descColor=bd00ff&descSize=14&descAlignY=82)](https://github.com/hassamjamildesign)
 
 </div>
