@@ -330,8 +330,8 @@ namespace Hassam.Profile {
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-hassamjamildesign-00fff5?style=for-the-badge&logo=github&logoColor=030014&labelColor=030014)](https://github.com/hassamjamildesign)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-bd00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014)](https://linkedin.com/in/hassamjamildesign)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-bd00ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030014)](mailto:muhammadhassamjamil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030014)](https://www.linkedin.com/in/muhammad-hassam-jamil-308a23389/)
 
 <br/><br/>
 
